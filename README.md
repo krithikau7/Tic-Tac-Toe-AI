@@ -19,4 +19,4 @@ The AI evaluates all possible game states and selects the optimal move, making i
 ## How to Run
 1. Install Python
 2. Run:
-   python tictactoe_ai.py
+   tictactoe_ai.py
